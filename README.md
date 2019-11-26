@@ -1,4 +1,4 @@
-# OpenclassroomsActivité-Blog
+Openclassrooms Activité - Blog -> modifier les commentaires
 
 ENONCE DE L'ACTIVITE:
 
